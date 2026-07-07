@@ -3,7 +3,7 @@
 An AI-powered resume analyzer built with Python, Streamlit, and Google Gemini AI. Get instant, detailed feedback on your resume with ATS scoring, strengths, weaknesses, and actionable suggestions.
 
 ## Live Demo 🌐
-[Coming soon — deploying on Streamlit Cloud]
+[https://resumeai-by-divyanshu.streamlit.app](https://resumeai-by-divyanshu.streamlit.app)
 
 ## Screenshots
 ![ResumeAI Dark Theme](screenshot.png)
